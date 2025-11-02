@@ -14,7 +14,7 @@ export const Hero = ({ onStartClick }: HeroProps) => {
         <div className="max-w-7xl mx-auto px-6 py-4">
           <div className="flex items-center gap-2 text-2xl font-bold">
             <span className="text-primary">✉️</span>
-            <span>EmailCraft</span>
+            <span>Good Mail</span>
           </div>
         </div>
       </nav>

@@ -97,7 +97,7 @@ export const EmailCreator = ({ onBack }: EmailCreatorProps) => {
               )}
               <div className="flex items-center gap-2 text-2xl font-bold">
                 <span className="text-primary">✉️</span>
-                <span>EmailCraft</span>
+                <span>Good Mail</span>
               </div>
             </div>
             <div className="hidden sm:flex items-center gap-4 text-xs text-muted-foreground">

@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Good Mail - AI Email Generation System
 
 ## Project info
 
@@ -42,7 +42,7 @@ npm run dev
 
 ## API Setup
 
-This project uses AI services to generate emails. You have several options:
+Good Mail uses AI services to generate professional emails. You have several options:
 
 ### Option 1: Google Gemini API (Recommended)
 
